@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme {
+  /* container: {
+    center: true,
+    padding: 20px;
+  } */
+
+  --color-primary: [ "#00D991"];
+}
